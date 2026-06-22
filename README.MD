@@ -84,4 +84,4 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais detalhes.
 
 ## Autor
 
-Criado por [José Fernando] ([@fernandosantos01]((https://github.com/fernandosantos01))).
+Criado por José Fernando ([@fernandosantos01]((https://github.com/fernandosantos01))).
