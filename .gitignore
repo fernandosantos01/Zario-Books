@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Builds do plugin (gerados, não versionados)
+*.zip
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# Sistema
+.DS_Store
